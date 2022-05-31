@@ -248,9 +248,9 @@ PRESS ENTER TO COUNT UP, FLAG WHEN CURRENT COUNT == 0xffffffffffffffff CURRENT C
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Cameron McCawley is a junior studying computer science at Oregon State University, focusing on security.
+      <description>Cameron McCawley is a senior studying computer science at Oregon State University, focusing on security.
 Currently, he works as a security analyst for OSU, where he helps monitor and respond to a wide range of security incidents and threats.
-He also holds the officer position of Lab Manager for the OSU Security Club, competing in many CTFs and CDC events under the team OSUSEC while also keeping the team&amp;rsquo;s infrastructure in check.</description>
+He is also the president of the OSU Security Club, competing in many CTFs and CDC events under the team OSUSEC while also helping mangage and organize the weekly club meetings.</description>
     </item>
     
   </channel>
