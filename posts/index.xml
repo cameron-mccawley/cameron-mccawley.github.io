@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cameron McCawley</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Cameron McCawley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Cameron McCawley</copyright>
+    <lastBuildDate>Sun, 18 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OSU League 2020/2021 - scrambled_noodles Writeup</title>
+      <link>https://example.org/posts/1716572228264-scrambled_noodles/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716572228264-scrambled_noodles/</guid>
+      <description>Writeup # My assistant sent me this .</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716572228264-scrambled_noodles/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - NCEP_MAGNUS Writeup</title>
+      <link>https://example.org/posts/1716571568050-ncep_magnus/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716571568050-ncep_magnus/</guid>
+      <description>Writeup # The pwn finale!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716571568050-ncep_magnus/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - NCEP_BOTEZ Writeup</title>
+      <link>https://example.org/posts/1716571427450-ncep_botez/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716571427450-ncep_botez/</guid>
+      <description>Writeup # For this challenge, we are given a binary that is very similar looking to the one from NCEP_XQC.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716571427450-ncep_botez/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - NCEP_XQC Writeup</title>
+      <link>https://example.org/posts/1716571484177-ncep_xqc/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716571484177-ncep_xqc/</guid>
+      <description>Writeup # For this challenge, we are given a simple program that just runs GNU chess.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716571484177-ncep_xqc/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - WEB_THREE Writeup</title>
+      <link>https://example.org/posts/1716572461312-web3/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716572461312-web3/</guid>
+      <description>Writeup # For this challenge, we are given a website that bears a resemblance to a previous challenge we did (cowsay), though this one is a bit more complicated.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716572461312-web3/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - boxy Writeup</title>
+      <link>https://example.org/posts/1716569287759-boxy/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716569287759-boxy/</guid>
+      <description>Writeup # Time to poke at a linux box and see what there is to find.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716569287759-boxy/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - rayhanns_return Writeup</title>
+      <link>https://example.org/posts/1716571871952-rayhanns_return/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716571871952-rayhanns_return/</guid>
+      <description>Writeup # For this challenge, we are given three files: A PDF that explains the lore/backstory of our task, an ISO file, and a wordlist that seems to be a derivitive of the rockyou.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716571871952-rayhanns_return/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - make_a_hash Writeup</title>
+      <link>https://example.org/posts/1716571230616-make_a_hash/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716571230616-make_a_hash/</guid>
+      <description>Writeup # For this crypto challenge, we are given a service we can connect to along with the source code of that service.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716571230616-make_a_hash/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - almostnopship0 Writeup</title>
+      <link>https://example.org/posts/1716569216545-almostnopship0/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716569216545-almostnopship0/</guid>
+      <description>Writeup # For this web challenge, we are given a link to a website that bears a striking resemblance to a certain DEF CON challenge.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716569216545-almostnopship0/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - Snowcone Writeup</title>
+      <link>https://example.org/posts/1716572285449-snowcone/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716572285449-snowcone/</guid>
+      <description>Writeup # Another day, another intrusion here at IcyRetina.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716572285449-snowcone/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - Copper Writeup</title>
+      <link>https://example.org/posts/1716569496742-copper/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716569496742-copper/</guid>
+      <description>Writeup # Time to smith some copper!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716569496742-copper/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - Cookie Writeup</title>
+      <link>https://example.org/posts/1716569409025-cookie/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716569409025-cookie/</guid>
+      <description>Writeup # pls beat the game</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716569409025-cookie/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - many_time_pad Writeup</title>
+      <link>https://example.org/posts/1716510712478-many_time_pad/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716510712478-many_time_pad/</guid>
+      <description>Writeup # For this challenge, we are giving a link to a web page.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716510712478-many_time_pad/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - web 2 Writeup</title>
+      <link>https://example.org/posts/1716572418279-web2/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716572418279-web2/</guid>
+      <description>Writeup # For this challenge, we are given a website.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716572418279-web2/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - Russian Nesting Bathhouse Writeup</title>
+      <link>https://example.org/posts/1716572170174-russian/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716572170174-russian/</guid>
+      <description>Writeup # I recall storing the password as a PDF, and I xored it with a 4-byte repeating key (e.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716572170174-russian/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - RSA 2 Writeup</title>
+      <link>https://example.org/posts/1716572081299-rsa2/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716572081299-rsa2/</guid>
+      <description>Writeup # RSA 2 is a bit of a continuation off of RSA 1.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716572081299-rsa2/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - RSA 1 Writeup</title>
+      <link>https://example.org/posts/1716571999178-rsa1/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716571999178-rsa1/</guid>
+      <description>Writeup # So, to start off, I knew pretty much nothing about cryptography and assumed that it was probably all black magic before this, but after spending 3 days on this challenge asking for help and googling everything I could, I can now say with abosulte certainty that my assumptions are correct.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716571999178-rsa1/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - ret2win Writeup</title>
+      <link>https://example.org/posts/1716571932158-ret2win/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716571932158-ret2win/</guid>
+      <description>Writeup # The goal of this challenge is to redirect code flow to the win() function.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716571932158-ret2win/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - printf_is_echo Writeup</title>
+      <link>https://example.org/posts/1716571707760-printf_is_echo/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716571707760-printf_is_echo/</guid>
+      <description>Writeup # Oh boy.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716571707760-printf_is_echo/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - cowsay Writeup</title>
+      <link>https://example.org/posts/1716571127770-cowsay/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716571127770-cowsay/</guid>
+      <description>Writeup # We are given a link to a website for this challenge that has a login page.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716571127770-cowsay/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - pwn_review Writeup</title>
+      <link>https://example.org/posts/1716571767621-pwn_review/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716571767621-pwn_review/</guid>
+      <description>Writeup # A simple review challenge.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716571767621-pwn_review/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSU League 2020/2021 - Unprintable Writeup</title>
+      <link>https://example.org/posts/1716572336362-unprintable/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716572336362-unprintable/</guid>
+      <description>Writeup # We are given a binary, so let&amp;rsquo;s see what it does:</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716572336362-unprintable/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSUSEC CTF League 2020/2021 - Mash Writeup</title>
+      <link>https://example.org/posts/1716510142587-mash/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1716510142587-mash/</guid>
+      <description>Writeup # Lets just run that binary</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1716510142587-mash/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
